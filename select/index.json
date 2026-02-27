@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "BAKU",
+  "base_artist": "いきものがかり",
+  "createdAt": "2026-02-27T06:50:03.900925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poison Dart (DJ Baku megamix)",
+      "artist": "The Bug feat. Warrior Queen",
+      "has_synced": false,
+      "path": "select/01_Poison_Dart_(DJ_Baku_megamix)_The_Bug_feat._Warrior_Queen.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poison Dart (DJ Baku Mega Mix)",
+      "artist": "The Bug ft. Warrior Queen",
+      "has_synced": false,
+      "path": "select/02_Poison_Dart_(DJ_Baku_Mega_Mix)_The_Bug_ft._Warrior_Queen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1922 in Baku",
+      "artist": "Clara Mondshine",
+      "has_synced": false,
+      "path": "select/03_1922_in_Baku_Clara_Mondshine.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BAKU (CORSAK Remix) -Sakura Chill Beats Singles",
+      "artist": "Ikimonogakari feat. CORSAK",
+      "has_synced": true,
+      "path": "select/04_BAKU_(CORSAK_Remix)_-Sakura_Chill_Beats_Singles_Ikimonogakari_feat._CORSAK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BAKU (CORSAK Remix) - SACRA BEATS Singles",
+      "artist": "Ikimonogakari/CORSAK",
+      "has_synced": true,
+      "path": "select/05_BAKU_(CORSAK_Remix)_-_SACRA_BEATS_Singles_Ikimonogakari_CORSAK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BAKU",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_BAKU_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BAKU",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_BAKU_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BAKU",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_BAKU_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baku",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/09_Baku_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Quédate conmigo - Versión Baku",
+      "artist": "Pastora Soler",
+      "has_synced": true,
+      "path": "select/10_Quédate_conmigo_-_Versión_Baku_Pastora_Soler.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baku (feat. ICEKIID)",
+      "artist": "KESI feat. ICEKIID",
+      "has_synced": true,
+      "path": "select/11_Baku_(feat._ICEKIID)_KESI_feat._ICEKIID.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baku (feat. ICEKIID)",
+      "artist": "Kesi",
+      "has_synced": true,
+      "path": "select/12_Baku_(feat._ICEKIID)_Kesi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BAKU",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/13_BAKU_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BAKU",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/14_BAKU_Ikimonogakari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAKU",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_BAKU_いきものがかり.txt"
+    }
+  ]
+}
